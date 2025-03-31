@@ -12,7 +12,7 @@ const allowedOrigins = process.env.ALLOWED_ORIGINS
   ? process.env.ALLOWED_ORIGINS.split(",")
   : [
     "http://localhost:5173",
-      "https://wahret-zmen-app-frontend-six.vercel.app",
+      "https://wahret-zmen-app-frontend-seven.vercel.app",
       
     ];
 
